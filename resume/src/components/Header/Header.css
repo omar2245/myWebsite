@@ -1,0 +1,44 @@
+.header {
+  margin-bottom: 20px !important;
+  background-color: #fff !important;
+  padding: 0 22px 0 0 !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 92px 0px rgba(0, 0, 0, 0.13) !important;
+}
+.header .header_link {
+  font-weight: 500 !important;
+}
+
+.header .header_link:hover {
+  color: var(--main-color) !important;
+}
+
+.header .header_link_active {
+  font-weight: bold;
+  color: #e5989b !important;
+}
+
+.header .header_home {
+  background-color: var(--main-color) !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 18px;
+  border-top-left-radius: 6px !important;
+  border-bottom-left-radius: 6px !important;
+}
+
+.header .header_home > .MuiSvgIcon-root {
+  color: #b5838d;
+}
+
+.header .header_left {
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header .header_right > a > .MuiSvgIcon-root {
+  color: black !important;
+}

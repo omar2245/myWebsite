@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: "Noto Sans TC", sans-serif;
+  background: #f0efeb;
+  overflow-x: hidden;
+  margin-top: 10px;
+}

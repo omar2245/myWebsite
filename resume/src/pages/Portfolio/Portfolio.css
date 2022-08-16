@@ -1,0 +1,29 @@
+.portfolio .card-container {
+  height: 100%;
+  display: relative;
+}
+
+.portfolio .card-link {
+  text-decoration: none !important;
+}
+
+.portfolio .card-actions a {
+  display: flex;
+
+  text-decoration: none;
+  padding-left: 5px;
+}
+
+.portfolio .card-actions .button {
+  justify-content: flex-end;
+  color: #e5989b;
+  top: 5px;
+}
+
+.custom-tab-item {
+  color: black !important;
+}
+
+.custom-tab-item-active {
+  color: #e5989b !important;
+}

@@ -1,0 +1,16 @@
+.timeline {
+  text-align: justify !important;
+}
+.timeline-title {
+  font-size: 18px !important ;
+  font-weight: 600 !important ;
+}
+
+.timeline-date {
+  color: rgb(149, 138, 133) !important;
+}
+
+.timeline-description {
+  padding-top: 5px;
+  font-size: 16px !important;
+}

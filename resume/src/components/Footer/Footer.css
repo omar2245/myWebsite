@@ -1,0 +1,32 @@
+.footer {
+  background-color: #6d6875 !important;
+  color: var(--main-color) !important;
+  padding: 20px 25px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 70px;
+}
+
+.footer .footer_name {
+  font-size: large;
+}
+
+.footer .footer_right span {
+  color: #e5989b;
+}
+
+.footer_right .footer_copyright {
+  font-size: small;
+  text-align: end;
+}
+
+.footer_right .footer_copyright a {
+  text-decoration: none !important;
+  color: #e5989b;
+}
+
+.footer_right .footer_copyright a:hover {
+  color: var(--main-color);
+}
